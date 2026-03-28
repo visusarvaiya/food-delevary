@@ -1,4 +1,4 @@
-﻿# food-delivary
+﻿# food-delivery
 
 A food delivery website project involves creating an online platform where users can browse through various restaurants, select items from their menus, place orders, make payments, and have the food delivered to their location. The website typically includes features like user registration and login, restaurant listings, menu displays, cart functionality, order tracking, payment gateways, and customer reviews. It requires designing user-friendly interfaces, integrating databases for storing menu items and user information, implementing secure payment methods, and setting up a system for managing orders and deliveries efficiently. Overall, the goal is to provide a convenient and seamless online food ordering experience for customers.
 
